@@ -10,7 +10,6 @@ Trustless Ballot Box is a secure and decentralized voting platform utilizing the
 - [Installation](#installation)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
 
 ## Introduction
 
