@@ -9,7 +9,6 @@ import {
   MerkleMap,
   PrivateKey,
 } from 'o1js';
-import { uploadBuffer } from './helpers';
 import axios from 'axios';
 type Transaction = Awaited<ReturnType<typeof Mina.transaction>>;
 // import fs from 'fs';
