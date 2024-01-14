@@ -237,9 +237,10 @@ export default function Content() {
         isError={alert.error}
       />
       <>
-        <h1 className={styles.title}>Mina Ballot</h1>
+        <h1 className={styles.title}>Trustless Ballot Box</h1>
         <p className={styles.description}>
-          Cast your vote for the Mina Foundation Board of Directors
+          Cast your vote for the best candidate. Utilize the power of zk-SNARKs
+          and decentralized Sia storage to ensure your vote is counted.
         </p>
       </>
       <Candidates
